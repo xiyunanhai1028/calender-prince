@@ -1,0 +1,11 @@
+{
+  "name": "dfh-calender",
+  "version": "1.0.4",
+  "description": "calender prince",
+  "main": "./lib/calender.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dfh",
+  "license": "MIT"
+}
