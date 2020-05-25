@@ -142,3 +142,9 @@ npm install dfh-calender
 |   bgCalender    |  String  |                    日历背景色                     |  white   |
 |    callback     | Function | 选中时的回调返回值：{date：“”，id：“”，price：“”} |          |
 
+npm地址：https://www.npmjs.com/package/dfh-calender
+
+源码地址：https://github.com/xiyunanhai1028/calender-prince
+
+
+
